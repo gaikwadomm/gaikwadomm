@@ -1,3 +1,3 @@
 # Hi, I'm Om 👋
+![OM](https://img.shields.io/badge/OM-%2300C9A7.svg)
 
-![GitHub Art](https://gitartwork.vercel.app/api?username=omgaikwad&text=OM&font=Poppins&fill=neon)
