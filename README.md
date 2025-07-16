@@ -11,12 +11,12 @@
 
 ## 🧑‍💻 About Me
 
-Hi there! I'm **username** 👋  
+Hi there! I'm **Om Gaikwad** 👋  
 I'm a passionate developer who loves building web apps, solving real-world problems, and learning new technologies.
 
 - 🎯 Currently focusing on **MERN stack**
 - 🚀 Exploring AI/ML and cloud deployment
-- 📫 Reach me at: [Your Email or LinkedIn here]
+- 📫 Reach me at: [07omgaikwad@gmail.com]
 
 ---
 
