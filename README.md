@@ -1,6 +1,6 @@
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Welcome+to+username's+GitHub+Profile!;Building+cool+projects+every+day+💻" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=2000&color=40DAFF&center=true&vCenter=true&width=435&lines=Welcome+to+Om+Gaikwad's+GitHub+%E2%80%93+Where+Ideas+Meet+Execution+%F0%9F%9A%80)](https://git.io/typing-svg)
 </p>
 
 <!-- Profile Visitor Badge -->
