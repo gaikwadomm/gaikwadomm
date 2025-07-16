@@ -1,5 +1,5 @@
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=2000&color=40DAFF&width=435&lines=Welcome+to+Om+Gaikwad's+GitHub+%E2%80%93+Where+Ideas+Meet+Execution+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=2000&color=40DAFF&multiline=true&width=1500&lines=Welcome+to+Om+Gaikwad's+GitHub+%E2%80%93+Where+Ideas+Meet+Execution+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
 <!-- Profile Visitor Badge -->
