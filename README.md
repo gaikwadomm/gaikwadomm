@@ -19,7 +19,7 @@ I'm a passionate developer who loves building web apps, solving real-world probl
 - 📫 Reach me at: [07omgaikwad@gmail.com]
 
 ---
-[![An image of @gaikwadomm's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@gaikwadomm)](https://www.holopin.io/@gaikwadomm#)s
+[![An image of @gaikwadomm's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@gaikwadomm)](https://www.holopin.io/@gaikwadomm)
 ---
 
 ## 🚀 Tech Stack
