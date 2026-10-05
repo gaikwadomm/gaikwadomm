@@ -40,7 +40,10 @@ I'm a passionate developer who loves building web apps, solving real-world probl
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
 
 </p>
+---
 
+---
+## LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/07omgaikwad2006?ext=contest&theme=dark)
 ---
 
