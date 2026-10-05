@@ -41,6 +41,7 @@ I'm a passionate developer who loves building web apps, solving real-world probl
 
 </p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/07omgaikwad2006?ext=contest&theme=dark)
 ---
 
 ## 📊 GitHub Stats
